@@ -1,0 +1,2 @@
+insert into ACCOUNT(AMOUNT, ACCOUNT_TYPE, EMAIL,ACCOUNTNUMBER) values(1, 'S', 'a@a.ru','RUB1234356');
+insert into ACCOUNT(AMOUNT, ACCOUNT_TYPE, EMAIL,ACCOUNTNUMBER) values(2, 'C', 'b@b.ru','USD1234');
